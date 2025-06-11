@@ -1,0 +1,7 @@
+# Classes
+PIDBasico      KEYWORD1
+PIDFiltroIIR   KEYWORD1
+PIDDerivadaFiltrada KEYWORD1
+
+# Class Methods
+compute        KEYWORD2
